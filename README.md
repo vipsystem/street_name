@@ -1,0 +1,1 @@
+This Ruby program spells out "STATE ST".
